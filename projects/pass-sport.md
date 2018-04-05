@@ -22,23 +22,23 @@ title: PassSport
 
 3. **Insights from Wireframes and Research**
 
-  - **Content Issue**:  This app was all about sports statistics and would have many forms for users to fill out. In addition, each sport had its own set of statistics, therefore the wireframe would need to actually have the correct content mapped out before designing. Lorem Ipsum was not going to cut it.
+    - **Content Issue**:  This app was all about sports statistics and would have many forms for users to fill out. In addition, each sport had its own set of statistics, therefore the wireframe would need to actually have the correct content mapped out before designing. Lorem Ipsum was not going to cut it.
 
-  - **Form Filling Issue**: related to the first point, because of the extensive amount of data a user had to provide, how the forms were design was crucial to the user experience.
+    - **Form Filling Issue**: related to the first point, because of the extensive amount of data a user had to provide, how the forms were design was crucial to the user experience.
 
-  - **Readbility Issue**: To connect coaches and students, users would need to compare stats therefore, displaying the information side by side in a small screen will have readability issues. I did suggest with something so content heavy it would work better on a website format (she later did pursue this route).
+    - **Readbility Issue**: To connect coaches and students, users would need to compare stats therefore, displaying the information side by side in a small screen will have readability issues. I did suggest with something so content heavy it would work better on a website format (she later did pursue this route).
 
 4. **Screenflow and Content**: I had my friend work with me through all the content that needed to populate the app and exactly where the information would reside.
 
 5.  **Prototyping**: I wanted to be able to convey interaction so I ended using atomic.io since it was less limited than InVision. Below were some highlights for the reasoning behind the design choices.
 
-  - **Data Visualization**: I had to account for the list length variability, there is content that is quite long which mean I had to balance readbility with screen real estate.
+    - **Data Visualization**: I had to account for the list length variability, there is content that is quite long which mean I had to balance readbility with screen real estate.
 
-  - **List Views:** There were a couple of options for list views, experimenting with a bunch of layouts, the main thing I want the list to be is readable since it's such a large list of items, scannability for the user on the mobile is important. One option has alot of white space, the other is optimized for quick scan but looks bad, and the last one is looks more consistent but I suspect there's more scanning since the items are too far apart.
+    - **List Views:** There were a couple of options for list views, experimenting with a bunch of layouts, the main thing I want the list to be is readable since it's such a large list of items, scannability for the user on the mobile is important. One option has alot of white space, the other is optimized for quick scan but looks bad, and the last one is looks more consistent but I suspect there's more scanning since the items are too far apart.
 
-  - **Comparing Coaches**: I liked how the [Apple website](https://www.apple.com/mac/compare/) did the guided selection for comparing apple products, so I used that, I have not seen it on mobile, but I thought it would help users understand that you were limited to two coaches to compare.
+    - **Comparing Coaches**: I liked how the [Apple website](https://www.apple.com/mac/compare/) did the guided selection for comparing apple products, so I used that, I have not seen it on mobile, but I thought it would help users understand that you were limited to two coaches to compare.
 
-  - **Exploration Page**: I wanted this page to be a quick browse of all the coaches/athlete so I made them into tiny profile cards, two horizontally. This might be problematic in the future because there's no way to discern why a coach would favourite a player with only their profile picture and the city and country they are in. This will likely need to be rethought. The althernatives are single profile view with more information, or a list view with information spread out horizontally. Below are some older iterations of the design.
+    - **Exploration Page**: I wanted this page to be a quick browse of all the coaches/athlete so I made them into tiny profile cards, two horizontally. This might be problematic in the future because there's no way to discern why a coach would favourite a player with only their profile picture and the city and country they are in. This will likely need to be rethought. The althernatives are single profile view with more information, or a list view with information spread out horizontally. Below are some older iterations of the design.
 ![pass-sport](/images/older-designs-pass.png)
 
 
