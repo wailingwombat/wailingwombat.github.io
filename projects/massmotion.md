@@ -3,28 +3,42 @@ layout: page
 title: MassMotion
 ---
 
+**Project**: UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/)
 
-UI/UX Design for MassMotion for future version release. [Oasys Software: MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/).
+**Goal**: Revamp the existing look for MassMotion, while updating its tools and features.
 
-Part of my time working at Arup was spent updating the existing user interface (fig.1) so that it felt less cluttered and looked cleaner. I made the software darker than its predecessor so that the geometric colours would be the focus. Blue accents were added to draw the eyes to important elements that could be toggled (fig.2).
+**Role**: UI/UX Designer (it was a team of 4)
+
+**Process**: While working at Arup, I spent 4 months working to revamp a software called MassMotion. MassMotion originally existed as a plugin for Softimage, though it later transitioned into a stand alone software, which simulates and analyzes pedestrian movements. During this time, highlights of my work include:
+
+- **Updating the software’s existing user interface**. I adjusted the overall color palette from monochromic grey to dark grey and blue. I chose these colours in order to give more focus on key element - the simulation scene. I also added specific blue accents to draw out important toggles for the user to access. In addition, I designed a set of icons for the quick build menu.
 
 ![massmotion](/images/old_massmotion.jpg)
-![massmotion](/images/menu.png)
 
-MassMotion originally was just a plugin for Softimage. Currently, it is a stand alone software that analyzes pedestrian movements. A concrete example is a fire engineer modeling the time it takes for people exist a building ([video demonstration](https://www.youtube.com/watch?v=BVfQdjpXa4k&feature=youtu.be&list=UUCSaCU47M1miJaf7l357VTw), albeit a very dramatic one). The next transition for MassMotion was to have its own geometric generator. Therefore, my main job was to translate the tools and features in Softimage into MassMotion (fig.3).
+![massmotion](/images/massmotionfull.png)
 
-Figure 4 is a mockup of the translated tools. This was designed so that information can be read easily. The design also took into consideration that these tools will be used through keyboard shortcuts. The initial learning curve would be steep; however, with repetition, the shortcuts would become procedural memory. This insight came from observing and interviewing users.
+- **Translating tools and features from Softimage into MassMotion** Throughout the design process, I considered the best way for information to be read easily, as well as how the use of keyboard shortcuts might affect the overall experience . Through user interviews, I learned that with repetition, the shortcuts would become procedural memory, and therefore would not serve as an obstacle. Final mockups can be seen in fig. 4.
 
 ![massmotion](/images/old_toolbar.jpg)
+
 ![massmotion](/images/tools.png)
 
-The original analysis input forms in Softimage (fig.5) were very hard to read. To redesign them, I used secondary research to try optimize the time to fill in information and to visually organize the inputs so that it can be quickly processed. One example of visual organization for quick processing is [label placement](https://www.uxmatters.com/mt/archives/2006/07/label-placement-in-forms.php).
+- **Redesigning input forms in Softimage**: Using secondary research to guide my design, I focussed on visually re-organizing the inputs (i.e considering label placement) so that a user would be able to quickly process the task.
 
 ![massmotion](/images/forms.png)
 
-Another project I was given was to create a new feature! This is a mockup of what could be in a new release. The mockup depicts a timeline (fig.6) that holds multiple ‘runs’. One of the biggest challenges that I ran into was trying to represent a physical object, an action, and a scene in one space. I drew solution inspirations from video editors, bus schedules, and Edward Tufte.
+
+- **Mockup of a new software feature**: For the software’s future released, I designed a mockup depicting a timeline that holds multiple ‘runs’ (fig. 6). One of the biggest challenges that I ran into was trying to represent a physical object, an action, and a scene in one space. To overcome this, I drew inspiration from video editors, bus schedules, and Edward Tufte.
 
 ![massmotion](/images/timeline.png)
 
+**Role**:
+- An enhanced overall user interface eliminated content clutter and maximized clarity
+- Redesigned forms allowed users to fill in information at quicker speeds
 
-The most important thing that I learned from Arup was how to design abstract ideas for users. Specifically, abstract ideas that I know the inner workings to. For example, the thermostat. In all likelihood, the general population does not fully understand how a thermostat operates. If the user feels cold, then they might think that turning up the heat to the highest setting would warm up the house faster. However, that’s not how a thermostat really works. But the user doesn’t technically need to understand that, the design should be communicated in a way that the users input matches the desired output.
+
+**Learnings**:
+
+The most important thing that I learned from this project was how to design abstract ideas to ensure that what a user inputs matches with what the desired outputs are. Massmotion is a software for power users, there are many advanced functions and features to learn to execute a simulation. Behind these function and features, the inner workings are even more complex. Therefore, it was essential for me to match a user's intent without giving them every detail of how MassMotion worked.
+
+Take a thermostat for instance, individuals might have misconceptions around how a thermostat operates. If a user feels cold, they might simply turn on the highest setting available to warm the space faster. However, this is not how a thermostat actually operates. Except, it should not matter if they user understands how a thermostat works. The thermostat design should be communicated in a way that the users intent (make it hotter) matches the desired output (become hotter).
