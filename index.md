@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## I'm a User Experience Designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
 ### Nice, clean, reading!
 
@@ -18,7 +18,7 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### Add social sharing buttons
+### Add social sharing buttonsI'm currently a User Experience Designer at IBM, where for the past 2 I have been working on improving the user experience for customers and employee across for 450+ IBM products and over 10,000 ibm.com pages. I have a deep understanding about user experience for a variety of SaaS apps, digital, and e-commerce. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
 Simply add the following line anywhere in your markdown:
 
