@@ -236,7 +236,7 @@ pre > code {
 /* Set an optional width for your button wrappers */
 .social span {
 	display: inline-block;
-	width: 110px;
+  width: 110px;
 }
 
 /* Adjust the widths individually if you like */

@@ -19,4 +19,5 @@ See my [resume](/resume.pdf)
 
 Connect with me here:
 
+
 {% include sharing.html %}
