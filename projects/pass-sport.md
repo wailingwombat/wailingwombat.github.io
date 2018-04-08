@@ -5,58 +5,48 @@ title: PassSport
 
 ![pass-sport](/images/bigshots-pass.png)
 
-An iOS App [prototype](https://app.atomic.io/d/aW2RvfdaIzyT). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
+**Project**: An iOS App [prototype](https://app.atomic.io/d/aW2RvfdaIzyT). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
 **Goal**: Create a hi-fidilty prototype that a developer could reference while building the real app.
 
 **Role**: Designer
 
-#### Process
+**Process**:
 
-**Research**
+1. **Research**: After some competitive analysis, I found that the main design issue with sports recruiting apps is that they use long and clunky forms. For example, fields are often too small and dropdowns are too wide. During the design process I focused on making the forms as user-friendly as possible.
 
-After some competitive analysis, I found that the main design issue with sports recruiting apps is that they use long and clunky forms. For example, fields are often too small and dropdowns are too wide. During the design process I focused on making the forms as user-friendly as possible.
+2. **Wireframing**: When I began working on the project, wireframes had already been created. I updated the the elements that were not user friendly like cramped buttons, illogical screen flows, etc. The wireframes used placeholder text; however, because the app is meant to display a significant amount of specialized data, sports statistics and academic credentials, I updated them to use realistic dummy text. With the text in place, I then rearranged the UI elements to accommodate it.
 
-**Wireframing**
+3. **Insights from Wireframes and Research**
 
-When I began working on the project, wireframes had already been created. I updated the the elements that were not user friendly like cramped buttons, illogical screen flows, etc. The wireframes used placeholder text; however, because the app is meant to display a significant amount of specialized data, sports statistics and academic credentials, I updated them to use realistic dummy text. With the text in place, I then rearranged the UI elements to accommodate it.
+    - **Content**: Because sports reqruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make. 
 
-**Insights from Wireframes and Research**
+    - **Forms**: Because the content in the app is all provded by the user, the design of the forms is crucial to the user experience.
 
-- **Content**: Because sports reqruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make. 
-
-- **Forms**: Because the content in the app is all provded by the user, the design of the forms is crucial to the user experience.
-
-- **Readability**: One feature of the app is the ability for coaches to compare students side by side and vice versa. I had to consider readability issues when displaying statistics side by side on a small screen.
+    - **Readability**: One feature of the app is the ability for coaches to compare students side by side and vice versa. I had to consider readability issues when displaying statistics side by side on a small screen.
     
-**Screenflow**
+4. **Screenflow**: I worked with the client to create the user journey from sign up to matches between coaches and students. This helped her better understand the product she wanted to create and the users.
 
-I worked with the client to create the user journey from sign up to matches between coaches and students. This helped her better understand the product she wanted to create and the users.
+5.  **Prototyping**: Below are some highlights for the reasoning behind the design choices.
 
-**Prototyping**
+    - **Lists**: I had to account for the list length variability. Some lists were significantly longer there were content that is long which mean I had to balance readbility with screen real estate.
 
-Below are examples of design choices I made while prototyping.
+    - **Comparing Coaches**: I liked the guided selection for comparing products on the [Apple website](https://www.apple.com/mac/compare/). While I had not seen that experience on a mobile site or app before, I thought it would help the users understand that they were limited to comparing two coaches.
 
-- **Lists**: I had to account for the list length variability. Some lists were significantly longer than others so I had to balance readbility with use of screen real estate.
+    - **Forms**: Instead of trying to design custom forms like the other recruiting apps, I used standard iOS form components which have been vetted with research for usabiltiy and are familiar to users.
 
-- **Comparing Coaches**: I liked how the [Apple website](https://www.apple.com/mac/compare/) did the guided selection for comparing apple products, so recreated that experience. I haven't seen that as an interaction on a mobile device before, but I thougt it would help the users understand that they were limited to two coaches to compare.
-
-- **Forms**: Instead of trying design my own forms like the other recruiting applications, I used iOS standard design which has been vetted with research for usabiltiy and would be more familiar to users.
-
-- **Exploration Page**: I wanted this page to be a quick browse of all the coaches/athlete so I made them into tiny profile cards. This could be problematic in the future because there's no way to discern why a coach would favourite a player with only their profile picture and the city and country they are in. This will likely need to be rethought. The althernatives are single profile view with more information, or a list view with information spread out horizontally. Below are some older iterations of the design.
+    - **Exploration Page**: I wanted this page to be a quick browse of all the coaches and athletes so I displayed them as profile cards. The small cards by themselves do not contain enough information so the prototype has a force-touch/long-press functionality that will pop open the card to show more information. Althernatively, a single column list view with larger cards containing more content, or removing the profile picture in favor of statistics could solve this problem. Removing the pictures could reduce the chance of someone selecting a profile based on superficial factors. Below are some iterations of the design.
 ![pass-sport](/images/older-designs-pass.png)
 
 
-**Final Output**
-
+**Final Output**:
 See the [demo](https://app.atomic.io/d/aW2RvfdaIzyT)
 
-#### Learnings
+**Learnings**:
+- **Design around the content**. In this case of a sports application this is especially important since the content is the value proposition.
 
-- You should always **design around the content**, and in this case for a sport application this was especially important since the content is the value proposition.
+- **Generate realistic dummy data**. Seeing templates filled in with content of variable lengths can help expose the weaknesses of the design.
 
-- **Generate realistic dummy data**, this helps you see the variability in lengths when you design
+- **Don't reinvent the wheel**. Use the standard design experience when possible because it is backed by research and familiar to users.
 
-- **Don't reinvent the wheel**, use the standard design experience when possible
-
-- Work with your friend/stakeholder/client on what they want by **working on paper first**, this way you can quickly weed out the bad ideas, or figure the technical constraints so you’re not designing for something unrealistic. For example, she wanted to design a page to allow students to upload a sports reel video. I told her it would be better to allow the students to add a link from youtube/vimeo/etc. since you probally don't want to deal with hosting video content or risking a bad experience playing the video in-app.
+- **Work on paper first**. You can quickly weed out the bad ideas and figure out the technical constraints so you don't waste time. For example, my client wanted the app to include a way for students to upload a sports reel video. Because hosting video is difficult and expensive, I suggested that the app should simply allow students to include a link to a video on their profile.
