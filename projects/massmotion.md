@@ -32,7 +32,8 @@ title: MassMotion
 
 ![massmotion](/images/timeline.png)
 
-**Role**:
+**Final Output**:
+- See it in action in this [video](https://www.youtube.com/watch?v=T3932L5INoM)
 - An enhanced overall user interface eliminated content clutter and maximized clarity
 - Redesigned forms allowed users to fill in information at quicker speeds
 

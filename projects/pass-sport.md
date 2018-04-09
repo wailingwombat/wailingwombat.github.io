@@ -19,12 +19,12 @@ title: PassSport
 
 3. **Insights from Wireframes and Research**
 
-    - **Content**: Because sports reqruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make. 
+    - **Content**: Because sports reqruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make.
 
     - **Forms**: Because the content in the app is all provded by the user, the design of the forms is crucial to the user experience.
 
     - **Readability**: One feature of the app is the ability for coaches to compare students side by side and vice versa. I had to consider readability issues when displaying statistics side by side on a small screen.
-    
+
 4. **Screenflow**: I worked with the client to create the user journey from sign up to matches between coaches and students. This helped her better understand the product she wanted to create and the users.
 
 5.  **Prototyping**: Below are some highlights for the reasoning behind the design choices.
@@ -41,6 +41,8 @@ title: PassSport
 
 **Final Output**:
 See the [demo](https://app.atomic.io/d/aW2RvfdaIzyT)
+![pass-sport](/images/passport_overview.gif)
+
 
 **Learnings**:
 - **Design around the content**. In this case of a sports application this is especially important since the content is the value proposition.
