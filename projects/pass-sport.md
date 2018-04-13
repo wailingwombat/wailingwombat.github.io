@@ -5,7 +5,7 @@ title: PassSport
 
 ![pass-sport](/images/bigshots-pass.png)
 
-**Project**: An iOS App [prototype](https://app.atomic.io/d/aW2RvfdaIzyT). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
+**Project**: An iOS App [prototype](http://bit.ly/PassSportPrototype). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
 **Goal**: Create a hi-fidilty prototype that a developer could reference while building the real app.
 
@@ -40,7 +40,7 @@ title: PassSport
 
 
 **Final Output**:
-See the [demo](https://app.atomic.io/d/aW2RvfdaIzyT)
+See the [demo](http://bit.ly/PassSportPrototype)
 ![pass-sport](/images/passport_overview.gif)
 
 
