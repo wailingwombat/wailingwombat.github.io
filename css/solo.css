@@ -161,14 +161,14 @@ a {
 word-wrap: break-word;
 }
 
-.container article img {
+.container img {
   margin: 2em auto 2em auto;
   display: block;
   max-width: 100%;
 }
 
 @media (max-width: 635px) {
-.container article img {
+.container img {
  max-width: 100%
  }
 }
