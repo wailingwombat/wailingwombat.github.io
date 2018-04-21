@@ -32,3 +32,5 @@ title: Ice Breakers
 **Learnings:**
 - I’ve never illustrated ice before, and I learned a lot about lighting.
 - Even with the simple game, creating a screenflow can help you know exactly what you need to design for
+
+{% include sharing.html %}
