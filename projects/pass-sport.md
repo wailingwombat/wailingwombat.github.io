@@ -5,7 +5,7 @@ title: PassSport
 
 ![pass-sport](/images/bigshots-pass.png)
 
-**Project**: An iOS App [prototype](http://bit.ly/PassSportPrototype). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
+**Project**: An iOS App protoype (done in Atomic prototyping which has now been closed down). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
 **Goal**: Create a hi-fidilty prototype that a developer could reference while building the real app.
 
@@ -40,9 +40,10 @@ title: PassSport
 
 
 **Final Output**:
-See the [demo](http://bit.ly/PassSportPrototype)
+See the ~[demo](http://bit.ly/PassSportPrototype)~ (done in Atomic prototyping which has now been closed down)
 ![pass-sport](/images/passport_overview.gif)
 
+See the Pas-sport [social media](https://www.instagram.com/passportathlete/?hl=en)
 
 **Learnings**:
 - **Design around the content**. In this case of a sports application this is especially important since the content is the value proposition.
