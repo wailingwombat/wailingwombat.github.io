@@ -41,7 +41,7 @@ title: PassSport
 
 **Final Output**:
 - See the ~[demo](http://bit.ly/PassSportPrototype)~ (done in Atomic prototyping which has now been closed down)
-- See the Pas-sport [social media](https://www.instagram.com/passportathlete/?hl=en) instead
+- See Pas-sport [social media](https://www.instagram.com/passportathlete/?hl=en) instead
 
 ![pass-sport](/images/passport_overview.gif)
 
