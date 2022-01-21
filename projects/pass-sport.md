@@ -19,7 +19,7 @@ title: PassSport
 
 3. **Insights from Wireframes and Research**
 
-    - **Content**: Because sports reqruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make.
+    - **Content**: Because sports recruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make.
 
     - **Forms**: Because the content in the app is all provded by the user, the design of the forms is crucial to the user experience.
 
