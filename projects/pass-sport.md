@@ -41,9 +41,9 @@ title: PassSport
 
 **Final Output**:
 See the ~[demo](http://bit.ly/PassSportPrototype)~ (done in Atomic prototyping which has now been closed down)
-![pass-sport](/images/passport_overview.gif)
-
 See the Pas-sport [social media](https://www.instagram.com/passportathlete/?hl=en)
+
+![pass-sport](/images/passport_overview.gif)
 
 **Learnings**:
 - **Design around the content**. In this case of a sports application this is especially important since the content is the value proposition.
