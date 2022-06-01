@@ -10,9 +10,10 @@ html {
   padding-top: 7em;
 }
 
-#nav {
+#nav-header {
   position: relative;
   padding-top: 7em;
+  color: red;
 }
 
 
