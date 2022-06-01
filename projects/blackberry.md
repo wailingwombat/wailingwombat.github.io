@@ -26,3 +26,8 @@ Back up your stuff with solid, clean citations. Footnotes can be written in mark
 
 **Learnings**:
 I learned how important it was to tailor my message in compelling ways to various stakeholders, such as teams of designers and engineers. By presenting the finalized data in a visual way, I was able to communicate facts in a clear manner so that the audience didn’t feel overwhelmed by numbers.
+
+
+##### Footnotes:
+
+[^2]: This is a footnote. Click to return.
