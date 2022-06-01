@@ -7,11 +7,6 @@ baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
-# 9. Site navigation
-header_pages:
-  - index.md
-  - about.md
-
 
 # Build settings
 markdown: kramdown
