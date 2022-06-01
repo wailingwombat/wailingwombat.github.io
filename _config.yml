@@ -7,6 +7,22 @@ baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
+
+
 # Build settings
 markdown: kramdown
 
