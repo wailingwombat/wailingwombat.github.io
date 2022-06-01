@@ -3,6 +3,10 @@ layout: page
 title: Blackberry
 ---
 
+<div id="wombat">
+{% include navigation.html %}
+</div>
+
 ![blackberry](/images/camera_protocol_diagram.png)
 
 
