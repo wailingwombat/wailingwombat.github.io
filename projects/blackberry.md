@@ -3,7 +3,7 @@ layout: page
 title: Blackberry
 ---
 
-<div id="wombat">
+<div id="nav">
 {% include navigation.html %}
 </div>
 
