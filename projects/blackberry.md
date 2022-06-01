@@ -2,8 +2,6 @@
 layout: page
 title: Blackberry
 ---
-{% include site-header.html %}
-
 
 ![blackberry](/images/camera_protocol_diagram.png)
 
