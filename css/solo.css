@@ -10,6 +10,11 @@ html {
   padding-top: 7em;
 }
 
+#nav {
+  position: relative;
+  padding-top: 7em;
+}
+
 
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
