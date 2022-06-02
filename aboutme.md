@@ -3,6 +3,10 @@ layout: page
 title: About Me
 ---
 
-So you want to know more about me eh? Well that's the first clue. I grew up in Vancouverl Canada, I've lived in all the major city in Canada as a child. I've lived in Calguary, Toronto, and Montreal. I now call New York City my home. In my spare time I like to take photos (link), collect too many plants (link), and cook (link). You can see my beef pho recipe here (link)!
+### As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. My specialty is bringing different teams to work together. 
 
-I've always been interested in many things, which is probally why I picked such a mult displicnary academic focus like Cognitive Science. It was the perfect blend of everything I was interested in, psychology, computer science, anjdaodjsad, haidsad, ahdisaopd.
+I grew up in Vancouver, Montreal, and Toronto and currently based in NYC. My path into design began like many others on Neopets! This was where started to learn to design and code from creating shop fronts for others. 
+
+Drawing from my background in cognitve and computer sciences, I bring a research-driven perspective into my projects and can easily communicate and collaborate with developers and stakeholders across teams. I am always curious about why people make the decisions they do, and I find it exciting to design functional, accessible solutions that is scaled for a large number of people.
+
+When I am not designing you may find me taking street photos, making crooked pots, or finding the next plant to add to my home. 
