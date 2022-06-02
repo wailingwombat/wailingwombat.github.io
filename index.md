@@ -8,7 +8,7 @@ layout: default
 
 - IT Support Chatbot: Coming soon
 - Scaling User Journeys: Coming soon
-- [View all Projects](/projects/allprojects)
+- [View all projects](/projects/allprojects)
 
 
 ### About Me

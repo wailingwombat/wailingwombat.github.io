@@ -1,9 +1,7 @@
 ---
 layout: page
-title: View all projects
+title: Projects
 ---
-
-### Projects
 
 - IT Support Chatbot - Coming soon
 - Scaling user journeys - Coming soon
