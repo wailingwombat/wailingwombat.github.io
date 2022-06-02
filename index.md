@@ -4,12 +4,11 @@ layout: default
 
 ## I'm a User Experience Designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
-### Projects
+### Latest Projects
 
-- [PassSport](/projects/pass-sport): iOS App Prototype
-- [MassMotion](/projects/massmotion): Pedestrian Simulation Software
-- [BlackBerry](/projects/blackberry): Usability Test Design
-- [Ice Breakers](/projects/ice-breakers): iOS Game Mockup
+- IT Support Chatbot: Coming soon
+- Scaling User Journeys: Coming soon
+- [View all Projects](/projects/allprojects)
 
 
 ### About Me
