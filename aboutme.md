@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-### As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. My specialty is bringing different teams to work together. 
+![profileimage](/images/plantdp.png)
+
+## As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. My specialty is bringing different teams to work together. 
 
 I grew up in Vancouver, Montreal, and Toronto and currently based in NYC. My path into design began like many others on Neopets! This was where started to learn to design and code from creating shop fronts for others. 
 
