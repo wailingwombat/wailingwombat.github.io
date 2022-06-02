@@ -12,8 +12,11 @@ html {
 
 #nav-header {
   position: relative;
-  padding-top: 7em;
-  color: red;
+  margin: 2em 0;
+}
+
+#nav-header nav a {
+  margin-right: 2em;
 }
 
 
