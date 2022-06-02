@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: About Me
 ---
 
-![profileimage](/images/plantdp.png)
+![profileimage](/images/plantdp.png){:height="200px" width="200px"}
 
 ## As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. My specialty is bringing different teams to work together. 
 
