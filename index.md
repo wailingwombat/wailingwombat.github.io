@@ -6,8 +6,9 @@ layout: default
 
 ### Latest Projects
 
-- IT Support Chatbot: Coming soon
-- Scaling User Journeys: Coming soon
+- IT Support Chatbot - Coming soon
+- Scaling user journeys - Coming soon
+- Enterprise Mail Migration - Coming soon
 - [View all projects](/projects/allprojects)
 
 
