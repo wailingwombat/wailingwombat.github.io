@@ -11,4 +11,4 @@ Drawing from my background in cognitve and computer sciences, I bring a research
 
 When I am not designing you may find me taking street photos, making crooked pots, or finding the next plant to add to my home.
 
-I also watch a lot of movies and tv and have a collection of [UI stills](https://www.are.na/anna-nguyen-0rkqu6uzk-q/user-interfaces-in-film-and-tv]).
+I also watch a lot of movies and tv and have a collection of [UI stills](https://www.are.na/anna-nguyen-0rkqu6uzk-q/user-interfaces-in-film-and-tv) I find inspiring.
