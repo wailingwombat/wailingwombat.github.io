@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ## As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. **My specialty is bringing different teams to work together.**
