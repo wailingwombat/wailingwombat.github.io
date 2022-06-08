@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## I'm a User Experience Designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
+## 👋 I'm Anna a UX designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
 ### Latest Projects
 
