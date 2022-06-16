@@ -30,14 +30,11 @@ html {
   grid-gap: 10px;
 }
 
-.grid > article {
-  background-color: blue;
-}
 .grid > article img {
   max-width: 100%;
 }
 
-@media (max-width: 325px) {
+@media (max-width: 400px) {
   .grid {
     display: inline-grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
