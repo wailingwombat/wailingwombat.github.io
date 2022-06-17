@@ -7,7 +7,7 @@ html {
 /* CUSTOM */
 #wombat {
   position: relative;
-  padding-top: 5em;
+  padding-top: 3em;
 }
 
 #nav-header {
@@ -27,12 +27,17 @@ html {
 .grid {
   display: inline-grid;
   grid-template-columns: repeat(2, [col-start] 1fr);
-  grid-gap: 10px;
+  grid-gap: 2em;
 }
 
 .grid > article img {
   max-width: 100%;
 }
+
+.grid > article > text {
+  margin-top: 2em;
+}
+
 
 @media (max-width: 400px) {
   .grid {
