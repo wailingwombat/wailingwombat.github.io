@@ -4,15 +4,15 @@ title: IT Support Chatbot
 ---
 
 
-![blackberry](/images/chatbotitsupport.png)
+![chatbotitsupport](/images/chatbotitsupport.png)
 Note: I don't use lorem ipsum in my actual designs.
 
 
 `conversational design` `chatbot`
 
-**Overview**: Due to most of my work being internal, I can't show a lot of the work on my site. At IBM under CIO design I worked with multiple teams to improve internal products. Here are some notes for one project I worked on involving IT Support for employees across IBM.
+**Overview**: Due to most of my work being internal, I can't show a lot of the work on my site. At IBM under CIO design I worked with multiple teams to improve internal products. Below is a summary for one project I worked on involving IT Support for employees across IBM.
 
-**Role**: UX Designer and Researcher
+**Role**: Lead UX Designer and Researcher
 
 **Project**: IT Support Chatbot
 

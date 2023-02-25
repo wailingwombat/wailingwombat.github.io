@@ -6,9 +6,9 @@ layout: default
 
 ### Latest Projects
 
-- IT Support Chatbot - Coming soon
+- [IBM Project](/projects/ibm-itsupport): IT Support Chatbot
 - Scaling user journeys - Coming soon
-- Enterprise Mail Migration - Coming soon
+- [IBM Project](/projects/ibm-mail): Enterprise Mail Migration
 - [View all projects](/projects/allprojects)
 
 

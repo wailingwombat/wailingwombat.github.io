@@ -2,14 +2,12 @@
 layout: page
 ---
 
-**Latest Projects**
-- IT Support Chatbot - Coming soon
+### Latest Projects
+- [IBM Project](/projects/ibm-itsupport): IT Support Chatbot
 - Scaling user journeys - Coming soon
-- Enterprise Mail Migration - Coming soon
+- [IBM Project](/projects/ibm-mail): Enterprise Mail Migration
 
----
-
-**Older Projects**
+### Older Projects
 - [PassSport](/projects/pass-sport): iOS App Prototype
 - [MassMotion](/projects/massmotion): Pedestrian Simulation Software
 - [BlackBerry](/projects/blackberry): Usability Test Design
