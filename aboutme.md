@@ -7,7 +7,7 @@ layout: default
 
 ![profilepicture](/images/aboutme/profilepic.jpg){: height="80%" width="80%"}
 
-I grew up in Vancouver, Montreal, and Toronto and currently based in NYC. My path into design began like many others on Neopets! This was where started to learn to design and code from creating shop fronts for others.
+I grew up in Vancouver, Montreal, and Toronto and currently based in NYC. My path into design began like many others - on Neopets! This was where I started to learn to design and code by creating shop fronts for other players.
 
 <div class="grid">
 <article>
