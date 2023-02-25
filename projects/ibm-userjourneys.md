@@ -6,7 +6,7 @@ title: Scaling User Journeys across IBM
 ![userjourney](/images/ibm-journey.png)
 `user journey` `user interviews` `enterprise design`
 
-**Overview**: Due to most of my work being internal, I can't show a lot of the work on my site. At IBM under CIO design I worked with multiple teams to improve internal products. Below is a summary for one project I worked on moving internal employees over to a new mail client.  
+**Overview**: Due to most of my work being internal, I can't show a lot of the work on my site. At IBM under CIO design I worked with multiple teams to improve internal products. Below is a summary for one project I worked on creating a standardized way to evaluate user journeys for all IBM.com products.
 
 **Role**: UX Designer. Collaborated with product team. Consulted with senior designers.
 

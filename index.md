@@ -7,14 +7,14 @@ layout: default
 ### Latest Projects
 
 - [IBM Project](/projects/ibm-itsupport): IT Support Chatbot
-- Scaling user journeys - Coming soon
+- [IBM Project](/projects/ibm-userjourneys): Scaling User Journeys
 - [IBM Project](/projects/ibm-mail): Enterprise Mail Migration
 - [View all projects](/projects/allprojects)
 
 
 ### About Me
 
-I'm currently working at IBM. For the past 6 years I have been improving the user experience for customers and employee across 450+ IBM products and over 10,000 ibm.com pages. I have a deep understanding of user experience for a variety of SaaS apps, digital, and e-commerce. 
+I'm currently working at IBM. For the past 6 years I have been improving the user experience for customers and employee across 450+ IBM products and over 10,000 ibm.com pages. I have a deep understanding of user experience for a variety of SaaS apps, digital, and e-commerce.
 
 
 <div id="wombat">
