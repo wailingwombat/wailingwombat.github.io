@@ -18,6 +18,6 @@ Note: I don't use lorem ipsum in my actual designs.
 
 - Designed an automated response tool in Slack that answered commonly asked IT questions.
 - Designed the conversational flow. 
-- Succesfully helped employees find solutions to their problems and spend less time searching for information. Also filled a gap when a co-worker or support is not online like at night time.
-- Reduce number of tickets for simple IT problem. Success was measured through data and user research.
+- Succesfully helped employees find solutions to their problems and **spend less time searching for information**. Also filled a gap when a co-worker or support is not online like at night time.
+- **Reduce number of tickets** for simple IT problem. Success was measured through data and user research.
 - Created a standard for chatbot on Slack in Figma.

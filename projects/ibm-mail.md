@@ -12,8 +12,8 @@ title: Enterprise Mail Migration
 
 **Project**: Enterprise Mail Migration
 
--  Survey a sample of IBM population on what their preference of mail migration was 
-- Launched the pilot of a multi-year project to migrate all 500,000+ IBM employee from one mail client to another
+-  Survey a sample of IBM population on what their preference of mail migration was
+- Launched the pilot of a multi-year project to **migrate all 500,000+ IBM employee** from one mail client to another
 - Established the series of emails, tutorials, and before and after migration experience when employees set up their computer and phones for the first time
-- Incrementally improved user experience with rounds of interviews and long term metric gathering
+- Incrementally **improved user experience** with rounds of interviews and long term metric gathering
 - Journey mapped the entire experience for the user to connect teams and ensure there was no gaps during an employee migration.
