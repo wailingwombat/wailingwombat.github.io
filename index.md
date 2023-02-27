@@ -4,7 +4,7 @@ layout: default
 
 ## 👋 I'm Anna a UX designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
-### Latest Projects
+### Latest Work
 
 - 🤖 [IBM Project](/projects/ibm-itsupport): IT Support Chatbot
 - 📍 [IBM Project](/projects/ibm-userjourneys): Scaling User Journeys

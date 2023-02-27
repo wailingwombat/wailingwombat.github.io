@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Latest Work
 ---
 
-### Latest Work
 - [IBM Project](/projects/ibm-itsupport): IT Support Chatbot
 - [IBM Project](/projects/ibm-userjourneys): Scaling User Journeys
 - [IBM Project](/projects/ibm-mail): Enterprise Mail Migration

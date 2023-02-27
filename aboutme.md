@@ -11,10 +11,10 @@ I grew up in Vancouver, Montreal, and Toronto and currently based in NYC. My pat
 
 <div class="grid">
 <article>
-  <img src="/images/aboutme/image-1.jpg"/>
+  <img src="/images/aboutme/Image-1.jpg"/>
  </article>
  <article>
-  <img src="/images/aboutme/image-2.jpg"/>
+  <img src="/images/aboutme/Image-2.jpg"/>
  </article>
 </div>
 
@@ -27,9 +27,9 @@ I also watch a lot of movies and tv and have a collection of [UI stills](https:/
 
 <div class="grid">
  <article>
-  <img src="/images/aboutme/image-3.jpg"/>
+  <img src="/images/aboutme/Image-3.jpg"/>
  </article>
   <article>
-  <img src="/images/aboutme/image-4.jpg"/>
+  <img src="/images/aboutme/Image-4.jpg"/>
  </article>
 </div>
