@@ -33,3 +33,5 @@ I also watch a lot of movies and tv and have a collection of [UI stills](https:/
   <img src="/images/aboutme/Image-4.jpg"/>
  </article>
 </div>
+
+{% include sharing.html %}
