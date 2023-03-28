@@ -6,7 +6,7 @@ title: Scaling User Journeys across IBM
 ![userjourney](/images/ibm-journey.png)
 `user journey` `user interviews` `enterprise design`
 
-**What did I do?**: I worked on creating a standardized way to evaluate user journeys for all IBM.com products.
+**Overview**: I worked on creating a standardized way to evaluate user journeys for all IBM.com products.
 
 **Role**: UX Designer. Collaborated with product team. Consulted with senior designers.
 

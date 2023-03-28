@@ -8,7 +8,7 @@ title: IT Support Chatbot
 
 `conversational design` `chatbot`
 
-**Overview**: I created a Slack tooo that answered commonly asked IT questions.
+**Overview**: I created a Slack tool that answered commonly asked IT questions.
 
 **Role**: Lead UX Designer and Researcher
 

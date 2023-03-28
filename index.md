@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 👋 I'm Anna a UX designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
+## 👋 I’m Anna a UX designer. Empathy and supportive data is the heart of what I do to create delightful experiences.
 
 ### Latest Work
 
@@ -13,7 +13,7 @@ layout: default
 
 ### About Me
 
-I'm currently working at IBM. For the past 6 years I have been improving the user experience for customers and employee across 450+ IBM products and over 10,000 ibm.com pages. I have a deep understanding of user experience for a variety of SaaS apps, digital, and e-commerce.
+I'm currently working at IBM in NYC. For the past 6 years I have been improving the user experience for customers and employee across 450+ IBM products and over 10,000 ibm.com pages. I have a deep understanding of user experience for a variety of SaaS apps, digital, and e-commerce.
 
 
 <div id="wombat">

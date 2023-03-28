@@ -6,7 +6,7 @@ title: Enterprise Mail Migration
 ![mailmigration](/images/ibm-mail.png)
 `surveys` `user interviews` `enterprise design`
 
-**What did I do?**: I worked on moving internal employees over to a new mail client.
+**Overview**: I worked on moving internal employees over to a new mail client.
 
 **Role**: UX Designer and Researcher with one other designer
 
