@@ -3,7 +3,7 @@ layout: page
 title: Ice Breakers
 ---
 
-![ice breakers](assets/images/icebreakershero.png)
+![ice breakers](/images/icebreakershero.png)
 
 
 **Project:** Fun side project working with a friend, mostly done as a learning exercise
