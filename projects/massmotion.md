@@ -11,7 +11,7 @@ title: MassMotion
 
 **Process**: While working at Arup, I spent 4 months working to revamp a software called MassMotion. MassMotion originally existed as a plugin for Softimage, though it later transitioned into a stand alone software, which simulates and analyzes pedestrian movements. During this time, highlights of my work include:
 
-- **Updating the software’s existing user interface**. I adjusted the overall color palette from monochromic grey to dark grey and blue. I chose these colours in order to give more focus on key element - the simulation scene. I also added specific blue accents to draw out important toggles for the user to access. In addition, I designed a set of icons for the quick build menu.
+- **Updating the software’s existing user interface**. I adjusted the overall color palette from monochromic grey to dark grey and blue. I chose these colours in order to give more focus on the key element - the simulation scene. I also added specific blue accents to draw out important toggles for the user to access. In addition, I designed a set of icons for the quick build menu.
 
 ![massmotion](/images/old_massmotion.jpg)
 
@@ -28,7 +28,7 @@ title: MassMotion
 ![massmotion](/images/forms.png)
 
 
-- **Mockup of a new software feature**: For the software’s future released, I designed a mockup depicting a timeline that holds multiple ‘runs’ (fig. 6). One of the biggest challenges that I ran into was trying to represent a physical object, an action, and a scene in one space. To overcome this, I drew inspiration from video editors, bus schedules, and Edward Tufte.
+- **Mockup of a new software feature**: For the software’s future release, I designed a mockup depicting a timeline that holds multiple ‘runs’ (fig. 6). One of the biggest challenges that I ran into was trying to represent a physical object, an action, and a scene in one space. To overcome this, I drew inspiration from video editors, bus schedules, and Edward Tufte.
 
 ![massmotion](/images/timeline.png)
 
@@ -40,4 +40,4 @@ title: MassMotion
 
 **Learnings**:
 
-The most important thing that I learned from this project is that complex systems, like Massmotion, should present the user with intuitive abstractions. To understand what I mean, consider the heating system for a house. This is a complex system that presents itself to the user in the form of a thermostat. Unforuntately, the thermostat is a rather unintuitive abstraction. If a user feels cold, they might simply turn the temperature up very high in the hopes that this will warm the house faster. This is, of course, not how the system works. The thermostat should be designed in a way that ensures that the user's intent, make the house hotter, matches the desired output, the house becomes hotter.
+The most important thing that I learned from this project is that complex systems, like Massmotion, should present the user with intuitive abstractions. To understand what I mean, consider the heating system for a house. This is a complex system that presents itself to the user in the form of a thermostat. Unfortunately, the thermostat is a rather unintuitive abstraction. If a user feels cold, they might simply turn the temperature up very high in the hopes that this will warm the house faster. This is, of course, not how the system works. The thermostat should be designed in a way that ensures that the user's intent, to make the house hotter, matches the desired output, the house becomes hotter.
