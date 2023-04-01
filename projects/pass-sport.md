@@ -7,7 +7,7 @@ title: PassSport
 
 **Project**: An iOS App prototype (done in Atomic prototyping which has now been closed down). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
-**Goal**: Create a hi-fidilty prototype that a developer could reference while building the real app.
+**Goal**: Create a hi-fidelity prototype that a developer could reference while building the real app.
 
 **Role**: Designer
 
