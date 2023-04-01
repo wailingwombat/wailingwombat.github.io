@@ -2,6 +2,7 @@
 layout: page
 title: MassMotion
 ---
+![massmotion](/images/massmotionhero.png)
 
 **Project**: UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/)
 
