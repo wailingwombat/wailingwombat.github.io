@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. **My specialty is bringing different teams to work together.**
+## As a designer I believe in making intuitive and accessible designs. I’m a storyteller first weaving in the needs of the user and business. **My specialty is bringing different teams to work together.**
 
 ![profilepicture](/images/aboutme/profilepic.jpg){: height="80%" width="80%"}
 

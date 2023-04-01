@@ -5,9 +5,9 @@ title: PassSport
 
 ![pass-sport](/images/bigshots-pass.png)
 
-**Project**: An iOS App protoype (done in Atomic prototyping which has now been closed down). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
+**Project**: An iOS App prototype (done in Atomic prototyping which has now been closed down). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
-**Goal**: Create a hi-fidilty prototype that a developer could reference while building the real app.
+**Goal**: Create a hi-fidelity prototype that a developer could reference while building the real app.
 
 **Role**: Designer
 
@@ -15,13 +15,13 @@ title: PassSport
 
 1. **Research**: After some competitive analysis, I found that the main design issue with sports recruiting apps is that they use long and clunky forms. For example, fields are often too small and dropdowns are too wide. During the design process I focused on making the forms as user-friendly as possible.
 
-2. **Wireframing**: When I began working on the project, wireframes had already been created. I updated the the elements that were not user friendly like cramped buttons, illogical screen flows, etc. The wireframes used placeholder text; however, because the app is meant to display a significant amount of specialized data, sports statistics and academic credentials, I updated them to use realistic dummy text. With the text in place, I then rearranged the UI elements to accommodate it.
+2. **Wireframing**: When I began working on the project, wireframes had already been created. I updated the elements that were not user friendly like cramped buttons, illogical screen flows, etc. The wireframes used placeholder text; however, because the app is meant to display a significant amount of specialized data, sports statistics and academic credentials, I updated them to use realistic dummy text. With the text in place, I then rearranged the UI elements to accommodate it.
 
 3. **Insights from Wireframes and Research**
 
-    - **Content**: Because sports recruiting apps are very text heavy, going forward I needed to make sure that the content is the first consideration in every design decision I make.
+    - **Content**: Sports recruiting apps is text heavy from all the statistic information on the athlete.
 
-    - **Forms**: Because the content in the app is all provded by the user, the design of the forms is crucial to the user experience.
+    - **Forms**: The design of the forms are crucial to the user experience because the content is all provided by the user.
 
     - **Readability**: One feature of the app is the ability for coaches to compare students side by side and vice versa. I had to consider readability issues when displaying statistics side by side on a small screen.
 
@@ -29,13 +29,13 @@ title: PassSport
 
 5.  **Prototyping**: Below are some highlights for the reasoning behind the design choices.
 
-    - **Lists**: I had to account for the list length variability. Some lists were significantly longer there were content that is long which mean I had to balance readbility with screen real estate.
+    - **Lists**: I had to account for the variability in lengths for comparing statistic lists. Some lists were very long which meant I had to balance readbility with screen real estate (especially on mobile).
 
     - **Comparing Coaches**: I liked the guided selection for comparing products on the [Apple website](https://www.apple.com/mac/compare/). While I had not seen that experience on a mobile site or app before, I thought it would help the users understand that they were limited to comparing two coaches.
 
-    - **Forms**: Instead of trying to design custom forms like the other recruiting apps, I used standard iOS form components which have been vetted with research for usabiltiy and are familiar to users.
+    - **Forms**: Instead of trying to design custom forms like the other recruiting apps, I used standard iOS form components which have been vetted with research for usability and are familiar to users.
 
-    - **Exploration Page**: I wanted this page to be a quick browse of all the coaches and athletes so I displayed them as profile cards. The small cards by themselves do not contain enough information so the prototype has a force-touch/long-press functionality that will pop open the card to show more information. Althernatively, a single column list view with larger cards containing more content, or removing the profile picture in favor of statistics could solve this problem. Removing the pictures could reduce the chance of someone selecting a profile based on superficial factors. Below are some iterations of the design.
+    - **Exploration Page**: I wanted this page to be a quick browse of all the coaches and athletes so I displayed them as profile cards. The small cards by themselves do not contain enough information so the prototype has a force-touch/long-press functionality that will pop open the card to show more information. Alternatively, a single column list view with larger cards containing more content, or removing the profile picture in favor of statistics could solve this problem. Removing the pictures could reduce the chance of someone selecting a profile based on superficial factors. Below are some iterations of the design.
 ![pass-sport](/images/older-designs-pass.png)
 
 
