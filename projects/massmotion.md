@@ -4,7 +4,7 @@ title: MassMotion
 ---
 ![massmotion](/images/massmotionhero.png)
 
-**Project**: UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/)
+**Project**: UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/). A tool for crowd modeling, evaluating building capacity, carrying out pedestrian flow analysis or evacuation.
 
 **Goal**: Revamp the existing look for MassMotion, while updating its tools and features.
 
