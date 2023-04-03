@@ -21,8 +21,9 @@ title: Blackberry
 
 ![blackberry](/images/camera_protocol_diagram.png)
 
-**Final Output**: Competitive information on what made a good camera experience in combination with the current technical benchmarks in a summarized report to stakeholders.
-
+**Impact**: 
+- Improved photo sharing UX: optimized sharing photos experience through feedback from a usability study. Tested with external users. see study design above.
+- Improved hardware ergonomics: Assisted software and hardware engineers to test and calibrate BlackBerry Classic’s trackpad, which led to a significant increase in beta satisfaction scores
 
 **Learnings**:
 I learned how important it was to tailor my message in compelling ways to various stakeholders, such as teams of designers and engineers. By presenting the finalized data in a visual way, I was able to communicate facts in a clear manner so that the audience didn’t feel overwhelmed by numbers.
