@@ -22,8 +22,8 @@ title: Blackberry
 ![blackberry](/images/camera_protocol_diagram.png)
 
 **Impact**: 
-- Improved photo sharing UX: *optimized sharing photos experience* through feedback from a usability study. Tested with external users. See study design above.
-- Improved hardware ergonomics: Assisted software and hardware engineers to test and calibrate BlackBerry Classic’s trackpad, which led to a significant *increase in beta satisfaction scores*.
+- Improved photo sharing UX: **optimized sharing photos experience** through feedback from a usability study. Tested with external users. See study design above.
+- Improved hardware ergonomics: Assisted software and hardware engineers to test and calibrate BlackBerry Classic’s trackpad, which led to a significant **increase in beta satisfaction scores**.
 
 **Learnings**:
 I learned how important it was to tailor my message in compelling ways to various stakeholders, such as teams of designers and engineers. By presenting the finalized data in a visual way, I was able to communicate facts in a clear manner so that the audience didn’t feel overwhelmed by numbers.
