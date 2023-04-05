@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enterprise Mail Migration
+title: Streamlining Enterprise Email Migration
 ---
 
 ![mailmigration](/images/ibm-mail.png)
