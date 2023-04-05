@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IT Support Chatbot
+title: Chatbot for IT Questions
 ---
 
 
